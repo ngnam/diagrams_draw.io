@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2021-12-02T11:38:43.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="igfLvtHJFyrGdGn5nf9N" version="15.7.3" type="github"><diagram id="fcM57e5S7oG4DDTY40qM" name="Page-1">dZE9D4MgEIZ/DTuC6cdsbV06OXQmchUS9AzSaPvrqwFriW3CcDz33jfhWTNerOjUFSUYwqgcCT8RxpKUMTI/Kp+eHGjqQW21DKIVlPoFAdJAH1pCHwkdonG6i2GFbQuVi5iwFodYdkcTV+1EDRtQVsJs6U1Lp8IUbL/yAnStlsrJ7ug9jVjEYZJeCYnDF+I54ZlFdN5qxgzMvLxlLz7u/Mf7acxC634ETMaae/pEF+L5Gw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-02T11:51:05.950Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="efIQfMd0QfsbHeGtk2Nj" version="15.7.3" type="github">
+  <diagram id="fcM57e5S7oG4DDTY40qM" name="Page-1">
+    <mxGraphModel dx="1422" dy="804" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-1" value="Data Engines" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="10" width="90" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-3" value="Data providers  " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="210" y="10" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-4" value="Data accesss Layer   " style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="80" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="40" as="sourcePoint" />
+            <mxPoint x="210" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="40" as="sourcePoint" />
+            <mxPoint x="610" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-8" value="DbContext" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="194.5" as="sourcePoint" />
+            <mxPoint x="210" y="194.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-10" value="Loging    " style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="SWu1WwCLGr-G2BfxYF3g-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="314.5" as="sourcePoint" />
+            <mxPoint x="210" y="314.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
